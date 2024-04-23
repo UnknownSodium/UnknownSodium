@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UnknownSodium. My real name is Akira Panyawongkhanti.
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning Javascript.
-- 📫 You can reach me via email at akira.panyawong@gmail.com.
+- 📫 You can reach me via email at akira.panyawong@gmail.com or akira.pan@student.mahidol.edu.
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I like cats.
 
