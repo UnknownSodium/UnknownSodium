@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @UnknownSodium. My real name is Akira Panyawongkhanti.
+- 👋 Hi, I’m @UnknownSodium. My goverment name is Akira Panyawongkhanti.
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Javascript.
 - 📫 You can reach me via email at akira.panyawong@gmail.com or akira.pan@student.mahidol.edu.
 - ▶ Demo of the games that I made/ helped made can be seen on my YouTube channel -> https://www.youtube.com/@justsalt2505
 
